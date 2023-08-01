@@ -1,2 +1,2 @@
 # tatvaSoft_bookKart
-An online library management software
+An online book shopping website made using react.js
