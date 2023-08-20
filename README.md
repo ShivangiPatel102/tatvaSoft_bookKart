@@ -1,5 +1,4 @@
 # BookKart
-This Project is about E-Book Selling Website based Reactjs, Nodejs &amp; MongoDB
 
 ### Login Page
 
@@ -20,3 +19,6 @@ This Project is about E-Book Selling Website based Reactjs, Nodejs &amp; MongoDB
 ### Product Edit / Add Page
 
 ![image](https://github.com/ZeelParekh10/BookKart/assets/90596719/0eea1165-ff9b-4c88-bab0-6d5670d12aba)
+
+# TatvaSoft Internship Project
+book selling website
